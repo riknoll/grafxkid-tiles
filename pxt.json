@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "assets.jres",
-        "assets.ts"
+        "assets.ts",
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
