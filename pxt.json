@@ -1,5 +1,6 @@
 {
     "name": "grafxkid-tiles",
+    "version": "1.0.0",
     "description": "An asset pack for MakeCode Arcade",
     "dependencies": {
         "device": "*"
