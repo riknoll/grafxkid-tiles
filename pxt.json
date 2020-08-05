@@ -9,6 +9,7 @@
         "main.blocks",
         "main.ts",
         "assets.jres",
+        "background.jres",
         "assets.ts",
         "README.md"
     ],
