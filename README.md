@@ -8,3 +8,7 @@ and recolored by logic_lab for arcade:
 
 https://forum.makecode.com/t/platformer-tileset/3023
 
+
+#### Metadata (used for search, rendering)
+
+* for PXT/arcade
