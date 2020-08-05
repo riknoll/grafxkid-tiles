@@ -1,4 +1,4 @@
-namespace spritePackSprites {
+namespace grafxkid {
     //% fixedInstance jres blockIdentity=images._image
     //% tags="background
     export const springBackground = image.ofBuffer(hex``);
