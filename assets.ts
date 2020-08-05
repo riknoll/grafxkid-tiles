@@ -1,6 +1,6 @@
 namespace grafxkid {
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background
+    //% tags="background"
     export const springBackground = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
@@ -68,7 +68,7 @@ namespace grafxkid {
     export const springTree4 = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background
+    //% tags="background"
     export const winterBackground = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
@@ -136,7 +136,7 @@ namespace grafxkid {
     export const winterTree4 = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background
+    //% tags="background"
     export const summerBackground = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
@@ -204,7 +204,7 @@ namespace grafxkid {
     export const summerTree4 = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background
+    //% tags="background"
     export const fallBackground = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
@@ -272,7 +272,7 @@ namespace grafxkid {
     export const fallTree4 = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background
+    //% tags="background"
     export const springBackgroundAlt = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
@@ -348,7 +348,7 @@ namespace grafxkid {
     export const iceBlock = image.ofBuffer(hex``);
 
     //% fixedInstance jres blockIdentity=images._image
-    //% tags="background
+    //% tags="background"
     export const winterBackgroundAlt = image.ofBuffer(hex``);
     
     //% fixedInstance jres blockIdentity=images._image
